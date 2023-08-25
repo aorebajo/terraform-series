@@ -11,6 +11,8 @@ https://www.terraform.io/docs/configuration/syntax.html
       - Local Values Block
       - Data Sources Block
       - Modules Block
+      - Moved Block
+      - Import Block
 
 - A block is a container for other content:
 # Template
